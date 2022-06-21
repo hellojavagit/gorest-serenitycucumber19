@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the student application","Check if the User can get list of all users","SUCCESS","2022-06-21T20:57:49.274+01:00[Europe/London]","0.0","2.85"
+"Testing different request on the student application","Check if the User can create a new User","SUCCESS","2022-06-21T20:57:52.775+01:00[Europe/London]","0.0","1.17"
+"Testing different request on the student application","Updating the newly created user","FAILURE","2022-06-21T20:57:53.968+01:00[Europe/London]","0.0","0.83"
+"Testing different request on the student application","Deleting the newly created user","SUCCESS","2022-06-21T20:57:54.865+01:00[Europe/London]","0.0","0.78"
